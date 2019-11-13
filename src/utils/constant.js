@@ -1,0 +1,4 @@
+const Constant = {
+
+}
+export {Constant}
